@@ -78,8 +78,8 @@ Farklı araçları da kullanabilirsiniz.
 
 ```
 Lab No  - Öğrenci Numarası - Ad Soyad
-Github Linki :   [https://github.com/noteCe/lab0](https://github.com/noteCe/lab0)
-Video Linki : [https://drive.google.com/open?id=1OvqoQzRmIm1BC1B\_tuVDfqwGRDh09JIs](https://drive.google.com/open?id=1OvqoQzRmIm1BC1B_tuVDfqwGRDh09JIs)
+Github Linki :   https://github.com/noteCe/lab0
+Video Linki : https://drive.google.com/open?id=1OvqoQzRmIm1BC1B_tuVDfqwGRDh09JIs
 ```
 (NOT :Videonuzu Drive hesabı linki olarak ya da Youtube linki olarak paylaşabilirsiniz.)
 
